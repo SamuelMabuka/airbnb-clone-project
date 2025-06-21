@@ -137,3 +137,9 @@ Securing the backend APIs is critical to protecting user data, ensuring safe tra
   All incoming data will be validated and sanitized to prevent attacks such as SQL injection and cross-site scripting (XSS). This ensures the application processes only safe and expected inputs.
 
 Security is crucial for protecting user personal information, securing payments, maintaining data integrity, and preserving the platform’s reputation. Implementing these measures helps ensure a trustworthy and reliable service for all users.
+
+## CI/CD Pipeline
+
+Continuous Integration and Continuous Deployment (CI/CD) pipelines automate the process of building, testing, and deploying code changes. This ensures that new features, bug fixes, and updates are delivered quickly and reliably, with minimal manual intervention. By running automated tests and checks on every code change, CI/CD pipelines help maintain code quality, prevent regressions, and streamline the development workflow.
+
+For this project, tools such as **GitHub Actions** can be used to automate testing, building, and deployment processes. **Docker** may be incorporated to provide consistent environments across development and production. Implementing a CI/CD pipeline ensures that the project remains stable and up-to-date as it evolves.
