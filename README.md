@@ -1,3 +1,5 @@
+This project is an Airbnb clone designed to replicate the main features of the Airbnb platform. It allows users to list, discover, and book accommodations online, offering a smooth experience for both hosts and guests. The application emphasizes secure user authentication, property management, booking, payments, reviews, and efficient data handling.
+
 ## Project Goals
 
 This project aims to create a clone of the Airbnb platform with the following main features:
