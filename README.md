@@ -1,7 +1,23 @@
-The goals of the project are to clone the AIRBNB platform, and achieve the following: 
-User management - Handles user registration, authentication and profile management. Must be secure.
-Project management - Listing properties, updating and retrieving the information.
-Booking system - Where users can reserve or book properties.
-Payment processing - A payment system that can handle the various transactions, including record the payment details.
-Review system - Where users can rate, review.
-Data optimization - Allows for the optimization of data - especilly, the retrieval, and storage on the database. 
+## Project Goals
+
+This project aims to create a clone of the Airbnb platform with the following main features:
+
+1. **User Management:**  
+   - Allow users to register, log in, and manage their profiles securely.
+
+2. **Property Management:**  
+   - Users can list their properties, and update or retrieve property information.
+
+3. **Booking System:**  
+   - Enable users to reserve or book listed properties easily.
+
+4. **Payment Processing:**  
+   - Provide a secure system for handling payments and recording transaction details.
+
+5. **Review System:**  
+   - Allow users to rate and review properties after their stay.
+
+6. **Data Optimization:**  
+   - Ensure fast and efficient storage and retrieval of data in the database.
+
+These goals will help build a full-featured, user-friendly Airbnb clone.
